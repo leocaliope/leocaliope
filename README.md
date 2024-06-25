@@ -30,8 +30,5 @@ These active contributions throughout my career to date are fundamental to the g
 </br></br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leocaliope&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY %5D&mode=weekly" alt="GitHub Streak" /></a>
 <p align="center">
-<a href="https://github.com/leocaliope">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leocaliope&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leocaliope&layout=compact&langs_count=5&theme=algolia"/>
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocaliope)](https://github.com/anuraghazra/github-readme-stats)
 </p>
