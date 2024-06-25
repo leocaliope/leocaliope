@@ -15,6 +15,12 @@ As a data analyst, I perform detailed analyses, identifying patterns and trends 
 Additionally, as a BI analyst, I am responsible for developing interactive dashboards and reports, empowering stakeholders with actionable information and directing business strategy.
 
 These active contributions throughout my career to date are fundamental to the growth and success of projects. If you are looking for an experienced, passionate and dedicated developer, contact me!
+## 🛠️ My Skills..
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,bash,bootstrap,cs,cloudflare,css,discord,bots,docker,elixir,express,figma,gcp,github,js,mongodb,mysql,nextjs,nginx,nodejs,notion,npm,php,postgres,postman,py,r,sequelize,terraform" />
+  </a>
+</p>
 
 ## 🔎 More..
 
