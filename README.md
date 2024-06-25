@@ -29,6 +29,3 @@ These active contributions throughout my career to date are fundamental to the g
 👨🏻‍💻 <a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
 </br></br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leocaliope&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY %5D&mode=weekly" alt="GitHub Streak" /></a>
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocaliope)](https://github.com/anuraghazra/github-readme-stats)
-</p>
