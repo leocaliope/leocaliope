@@ -1,4 +1,4 @@
-## Who am I..
+## ℹ️ Who am I..
 
 Versatile developer with 6 years of experience, seeking new challenges and opportunities to contribute my skills in programming, data analysis and automation. 
 
@@ -16,10 +16,10 @@ Additionally, as a BI analyst, I am responsible for developing interactive dashb
 
 These active contributions throughout my career to date are fundamental to the growth and success of projects. If you are looking for an experienced, passionate and dedicated developer, contact me!
 
-## More..
+## 🔎 More..
 
-<a href="https://www.linkedin.com/in/leonardo-caliope/" class="btn btn-secondary">LinkedIn</a></br>
-<a href="www.seek4.tech" class="btn btn-secondary">My company - Seek4Tech<a></br>
-<a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
+🔗 <a href="https://www.linkedin.com/in/leonardo-caliope/" class="btn btn-secondary">LinkedIn</a></br>
+🏢 <a href="www.seek4.tech" class="btn btn-secondary">My company - Seek4Tech<a></br>
+👨🏻‍💻 <a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
 </br></br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leocaliope&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY %5D&mode=weekly" alt="GitHub Streak" /></a>
