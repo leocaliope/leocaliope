@@ -29,4 +29,3 @@ These active contributions throughout my career to date are fundamental to the g
 👨🏻‍💻 <a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
 </br></br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leocaliope&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY %5D&mode=weekly" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=leocaliope&theme=dark)](https://git.io/streak-stats)
