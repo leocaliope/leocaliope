@@ -1,31 +1,65 @@
-## ℹ️ Who am I..
+<h1 align="center">👨‍💻 Leonardo Caliope</h1>
+<h3 align="center">Developer | Data Analyst | RPA Specialist | Tech Enthusiast</h3>
 
-Versatile developer with 6 years of experience, seeking new challenges and opportunities to contribute my skills in programming, data analysis and automation. 
-
-I have solid skills in several languages ​​and technologies such as JavaScript, Elixir, Python, Relational and Non-Relational Databases, C# and PHP, which allows me to create, plan, program and analyze innovative projects. My analytical and collaborative approach helps me face complex challenges, always seeking efficient and high-quality solutions. I am always motivated by complex challenges and innovative opportunities, ready to contribute and make a difference in software development.
-
-In my career, I have been responsible and involved in a variety of activities essential to the success of projects. As a systems developer, I work on designing, coding and implementing innovative solutions, ensuring optimized solutions that deliver exceptional results.
-
-Additionally, I work in database architecture, designing solid and optimized structures to deal with large volumes of data, providing superior system performance.
-
-As part of my responsibilities, I also develop Robotic Process Automation (RPA) solutions, streamlining workflows and increasing productivity in various areas of the company.
-
-As a data analyst, I perform detailed analyses, identifying patterns and trends to provide valuable insights to decision-making teams.
-
-Additionally, as a BI analyst, I am responsible for developing interactive dashboards and reports, empowering stakeholders with actionable information and directing business strategy.
-
-These active contributions throughout my career to date are fundamental to the growth and success of projects. If you are looking for an experienced, passionate and dedicated developer, contact me!
-## 🛠️ My Skills..
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,bash,bootstrap,cloudflare,css,discord,django,bots,docker,elixir,express,figma,gcp,github,java,js,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,php,postgres,postman,py,r,sequelize,terraform" />
+  <a href="https://www.linkedin.com/in/leonardo-caliope/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leocaliope.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://www.seek4.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Company-Seek4Tech-blueviolet?style=for-the-badge"/>
   </a>
 </p>
 
-## 🔎 More..
+---
 
-🔗 <a href="https://www.linkedin.com/in/leonardo-caliope/" class="btn btn-secondary">LinkedIn</a></br>
-🏢 <a href="www.seek4.tech" class="btn btn-secondary">My company - Seek4Tech<a></br>
-👨🏻‍💻 <a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
-</br></br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=leocaliope&theme=merko&border_radius=3.5)](https://git.io/streak-stats)
+## ℹ️ About Me
+
+👋 Hey! I'm Leonardo — a **versatile and solution-driven developer** with 6+ years of experience in software engineering, data analysis, automation (RPA), and system architecture.
+
+🔍 I thrive on tackling complex problems and building robust, scalable solutions. Whether it's **backend systems**, **data pipelines**, or **automating workflows**, I bring clarity, structure, and performance to every project I touch.
+
+🚀 Currently looking for new challenges and opportunities to apply my technical expertise and collaborative spirit in innovative environments.
+
+---
+
+## 🧠 What I Do
+
+- 👨‍💻 **Full-Stack Development** – Crafting scalable web applications with technologies like JavaScript (Node.js, Angular), Elixir, and PHP.
+- 🧮 **Data Analysis & BI** – Delivering actionable insights through dashboards, reports, and exploratory analysis (Python, SQL, Power BI).
+- 🤖 **RPA Solutions** – Automating routine business tasks using custom scripts and bots to save time and improve efficiency.
+- 🧱 **Database Architecture** – Designing efficient, reliable structures for relational (PostgreSQL, MySQL) and NoSQL (MongoDB) environments.
+- 🌐 **DevOps & Cloud** – Familiar with tools like Docker, Terraform, and services on AWS, Azure, and GCP.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,angular,elixir,py,r,php,csharp,django,mysql,postgres,mongodb,docker,aws,azure,gcp,terraform,figma,bash,nginx,postman" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=leocaliope&theme=merko&border_radius=4.5" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+- 📫 Email: [your.email@example.com]
+- 🌐 Website: [leocaliope.dev](https://leocaliope.dev)
+- 💼 LinkedIn: [linkedin.com/in/leonardo-caliope](https://www.linkedin.com/in/leonardo-caliope/)
+- 🧭 Company: [seek4.tech](https://www.seek4.tech)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
