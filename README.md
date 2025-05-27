@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,angular,elixir,py,r,php,csharp,django,mysql,postgres,mongodb,docker,aws,azure,gcp,terraform,figma,bash,nginx,postman" />
+    <img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,bash,bootstrap,cloudflare,css,discord,django,bots,docker,elixir,express,figma,gcp,github,java,js,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,php,postgres,postman,py,r,sequelize,terraform" />
   </a>
 </p>
 
