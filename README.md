@@ -28,4 +28,4 @@ These active contributions throughout my career to date are fundamental to the g
 🏢 <a href="www.seek4.tech" class="btn btn-secondary">My company - Seek4Tech<a></br>
 👨🏻‍💻 <a href="leocaliope.dev" class="btn btn-secondary">My profile leocaliope.dev</a></br>
 </br></br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=leocaliope&theme=dracula&locale=pt_BR&date_format=j%2Fn%5B%2FY %5D&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=leocaliope&theme=merko&border_radius=3.5)](https://git.io/streak-stats)
