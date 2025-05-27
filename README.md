@@ -17,7 +17,7 @@
 
 ## ℹ️ About Me
 
-👋 Hey! I'm Leonardo — a **versatile and solution-driven developer** with 6+ years of experience in software engineering, data analysis, automation (RPA), and system architecture.
+👋 Hey! I'm Leonardo — a **versatile and solution-driven developer** with 10+ years of experience in software engineering, data analysis, automation (RPA), and system architecture.
 
 🔍 I thrive on tackling complex problems and building robust, scalable solutions. Whether it's **backend systems**, **data pipelines**, or **automating workflows**, I bring clarity, structure, and performance to every project I touch.
 
