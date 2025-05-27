@@ -18,7 +18,7 @@ These active contributions throughout my career to date are fundamental to the g
 ## 🛠️ My Skills..
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,bash,bootstrap,cs,cloudflare,css,discord,bots,docker,elixir,express,figma,gcp,github,js,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,php,postgres,postman,py,r,sequelize,terraform" />
+    <img src="https://skillicons.dev/icons?i=angular,apple,aws,azure,bash,bootstrap,cloudflare,css,discord,django,bots,docker,elixir,express,figma,gcp,github,java,js,mongodb,mysql,nestjs,nginx,nodejs,notion,npm,php,postgres,postman,py,r,sequelize,terraform" />
   </a>
 </p>
 
