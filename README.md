@@ -55,7 +55,6 @@
 
 ## 🔗 Let's Connect
 
-- 📫 Email: [your.email@example.com]
 - 🌐 Website: [leocaliope.dev](https://leocaliope.dev)
 - 💼 LinkedIn: [linkedin.com/in/leonardo-caliope](https://www.linkedin.com/in/leonardo-caliope/)
 - 🧭 Company: [seek4.tech](https://www.seek4.tech)
