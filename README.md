@@ -27,11 +27,11 @@
 
 ## 🧠 What I Do
 
-- 👨‍💻 **Full-Stack Development** – Crafting scalable web applications with technologies like JavaScript (Node.js, Angular), Elixir, and PHP.
-- 🧮 **Data Analysis & BI** – Delivering actionable insights through dashboards, reports, and exploratory analysis (Python, SQL, Power BI).
-- 🤖 **RPA Solutions** – Automating routine business tasks using custom scripts and bots to save time and improve efficiency.
-- 🧱 **Database Architecture** – Designing efficient, reliable structures for relational (PostgreSQL, MySQL) and NoSQL (MongoDB) environments.
-- 🌐 **DevOps & Cloud** – Familiar with tools like Docker, Terraform, and services on AWS, Azure, and GCP.
+- 💻 **Full-Stack Development** – Building scalable web applications with **JavaScript (Node.js, Angular)** and **Python**.
+- 📊 **Data Analysis & BI** – Delivering insights through **dashboards**, **reports**, and **exploratory analysis** using **Python**, **SQL**, and **Power BI**.
+- 🤖 **Automation (RPA)** – Creating bots and scripts to automate repetitive business tasks and boost operational efficiency.
+- 🗄️ **Database Architecture** – Designing efficient and scalable data structures using **PostgreSQL**, **MySQL**, and **MongoDB**.
+- ☁️ **DevOps & Cloud** – Working with **Docker**, **Terraform**, and deploying solutions on **AWS**, **Azure**, and **GCP**.
 
 ---
 
@@ -57,7 +57,7 @@
 
 - 🌐 Website: [leocaliope.dev](https://leocaliope.dev)
 - 💼 LinkedIn: [linkedin.com/in/leonardo-caliope](https://www.linkedin.com/in/leonardo-caliope/)
-- 🧭 Company: [seek4.tech](https://www.seek4.tech)
+- 🧭 My Company: [seek4.tech](https://www.seek4.tech)
 
 ---
 
