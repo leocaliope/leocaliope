@@ -17,21 +17,52 @@
 
 ## ℹ️ About Me
 
-👋 Hey! I'm Leonardo — a **versatile and solution-driven developer** with 10+ years of experience in software engineering, data analysis, automation (RPA), and system architecture.
+👋 Hey! I’m Leonardo — a full-stack developer and technology strategist with 10+ years of experience building scalable systems, automations, and high-impact digital solutions.
 
-🔍 I thrive on tackling complex problems and building robust, scalable solutions. Whether it's **backend systems**, **data pipelines**, or **automating workflows**, I bring clarity, structure, and performance to every project I touch.
+🔍 My career is defined by trust and delivery. I’ve consistently been brought into projects by leadership to design and implement solutions that solve real business problems — from architecture to execution.
 
-🚀 Currently looking for new challenges and opportunities to apply my technical expertise and collaborative spirit in innovative environments.
+🚀 I specialize in turning ideas into robust, production-ready systems, combining backend expertise, automation, and cloud infrastructure to drive efficiency and growth.
+
+🧠 Beyond client work, I run my own tech lab (Seek4Tech), where I continuously build, test, and validate real products — staying sharp and ahead of the curve.
 
 ---
 
 ## 🧠 What I Do
 
-- 💻 **Full-Stack Development** – Building scalable web applications with **JavaScript (Node.js, Angular)** and **Python**.
-- 📊 **Data Analysis & BI** – Delivering insights through **dashboards**, **reports**, and **exploratory analysis** using **Python**, **SQL**, and **Power BI**.
-- 🤖 **Automation (RPA)** – Creating bots and scripts to automate repetitive business tasks and boost operational efficiency.
-- 🗄️ **Database Architecture** – Designing efficient and scalable data structures using **PostgreSQL**, **MySQL**, and **MongoDB**.
-- ☁️ **DevOps & Cloud** – Working with **Docker**, **Terraform**, and deploying solutions on **AWS**, **Azure**, and **GCP**.
+### 💻 Full-Stack Development
+Building scalable applications using Node.js (NestJS) and React, with strong focus on performance and clean architecture.
+
+### 🏗️ System Architecture
+Designing secure, scalable, and maintainable architectures from scratch, aligned with business goals.
+
+### 🤖 Automation (RPA & AI)
+Creating bots and intelligent workflows that eliminate manual processes, reduce costs, and increase operational efficiency.
+
+### 🔗 APIs & Integrations
+Developing robust APIs and integrating systems across platforms, enabling seamless data flow and automation.
+
+### ☁️ Cloud & Infrastructure
+Deploying and managing systems on AWS and GCP, ensuring scalability, reliability, and performance.
+
+### 🗄️ Data & Databases
+Working with MongoDB, PostgreSQL, and other data solutions to build efficient, data-driven systems.
+
+---
+
+## 🚀 Experience Highlights
+
+- Designed and implemented end-to-end technology strategies, from architecture to production  
+- Led teams and established quality standards and security best practices  
+- Built RPA solutions that reduced operational costs and eliminated manual errors  
+- Developed SaaS platforms, APIs, and automation systems through Seek4Tech  
+
+---
+
+## 🎯 What I’m Looking For
+
+I’m currently looking for opportunities as a **Full-Stack or Backend (Node.js) Developer**, where I can apply my experience in architecture, automation, and cloud to build high-performance and scalable products.
+
+Let’s connect 🚀
 
 ---
 
