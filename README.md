@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://www.seek4.tech" target="_blank">
-    <img src="https://img.shields.io/badge/My-Company-Seek4Tech-blueviolet?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Company-Seek4Tech-blueviolet?style=for-the-badge"/>
   </a>
 </p>
 
